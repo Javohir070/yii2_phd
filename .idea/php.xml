@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/click/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/click/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/click/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/click/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/click/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/click/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/click/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/click/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/click/vendor/composer" />
+    </include_path>
+  </component>
+</project>
