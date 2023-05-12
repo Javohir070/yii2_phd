@@ -90,9 +90,9 @@ $this->params['breadcrumbs'][] = $this->title;
             <div class="card-content">
                 <div class="card-body">
                     <div class="table-responsive">
-                        <div id="w0" class="grid-view">
+                        <div class="grid-view">
                             <div class="summary">Showing <b>1-4</b> of <b>4</b> items.</div>
-                            <table class="table table-striped table-bordered">
+                            <table class="table table-striped table-bordered" id="emp-table">
                                 <thead>
                                     <tr>
                                         <th col-index=1 >#</th>

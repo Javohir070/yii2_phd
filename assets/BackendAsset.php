@@ -52,6 +52,7 @@ class BackendAsset extends AssetBundle
         '/web/backend/js/customizer.min.js',
         '/web/backend/js/footer.min.js',
         '/web/backend/js/i18n-resources.min.js',
+        '/web/frontend/assets/js/filter.js',
         //'/web/backend/app-assets/js/scripts/pages/dashboard-ecommerce.min.js',
     ];
     public $depends = [
